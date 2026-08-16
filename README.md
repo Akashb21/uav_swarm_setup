@@ -567,7 +567,6 @@ These are considered future extensions rather than mandatory first-stage compone
 | Unity | Advanced final visualization |
 | Godot | Open-source 3D visualization |
 
-The project should start with a lightweight Python visualizer and move to a game-engine visualizer only if the demonstration requirements justify the additional complexity.
 
 ---
 
@@ -722,11 +721,6 @@ Conceptually:
                   Compare Results
 ```
 
-Expected research question:
-
-> Does trust-aware decentralized routing improve packet delivery and malicious-node avoidance without causing unacceptable routing overhead and delay?
-
----
 
 # 18. Project Phases
 
@@ -1029,8 +1023,6 @@ The minimum successful implementation should contain:
 - PDR / delay / throughput measurement
 - Python analysis
 - Basic 3D visualization
-
-Anything beyond this should be treated as an extension.
 
 ---
 
