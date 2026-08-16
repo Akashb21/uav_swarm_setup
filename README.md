@@ -391,7 +391,7 @@ or a separate real-time engine such as:
 - **Unity**
 - **Godot**
 
-For a final-year academic project, using ns-3 for networking and a separate lightweight visualization layer keeps the architecture manageable.
+
 
 ---
 
