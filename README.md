@@ -1083,8 +1083,6 @@ Altogether it pulls together FANET theory, decentralized routing, trust manageme
 
 ## Status
 
-**Project type:** Final Year Research / Simulation Project
-
 **Phase 1:** Network + Routing + Trust + Attack Simulation
 
 **Phase 2:** Optimization + Evaluation + 3D UAV Visualization
