@@ -1010,7 +1010,7 @@ Route avoidance
 
 The drone visualization is the presentation layer, not the contribution. What makes this a research project is dynamic FANET routing combined with decentralized decision making, behavior-based trust, malicious-node detection, multi-criteria next-hop selection, and quantitative simulation, all tied together and shown through the 3D swarm view.
 
-The key research question: does adding trust information improve routing robustness against malicious UAVs without an unacceptable hit to network performance?
+
 
 ---
 
